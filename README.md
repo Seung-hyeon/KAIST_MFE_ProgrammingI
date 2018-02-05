@@ -9,6 +9,12 @@ This material covers [python 3.6](https://www.python.org/downloads/). and packag
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Git 2.16.1](https://git-scm.com/downloads)
 
+## Installation
+ After you install all the prerequistes, type
+```python
+git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
+```
+
 ## Other Useful Resources
 * [Quantecon](https://lectures.quantecon.org/)
 
