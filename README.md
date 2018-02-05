@@ -1,5 +1,5 @@
 # KAIST_MFE_ProgrammingI
-KAIST MFE Programming I for Python
+KAIST MFE Programming I for Python!
 
 This material covers [python 3.6](https://www.python.org/downloads/). and packages; [numpy](http://www.numpy.org/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/).
 
