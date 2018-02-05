@@ -7,7 +7,7 @@ This material covers [python 3.6](https://www.python.org/downloads/). and packag
 
 * [Anaconda 5.0.1 Python 3.6 version](https://www.anaconda.com/download/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
-* [Git 2.16.1](https://git-scm.com/downloads)
+* (Optional) [Git 2.16.1](https://git-scm.com/downloads)
 
 ## Installation
  After you install all the prerequistes, type
