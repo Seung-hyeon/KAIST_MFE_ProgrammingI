@@ -11,12 +11,18 @@ This material covers [python 3.6](https://www.python.org/downloads/). and packag
 
 ## Installation
  After you install all the prerequistes, type
-```python
+```cmd
 git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 ```
 
 ## Other Useful Resources
 * [Quantecon](https://lectures.quantecon.org/)
+
+## Online Viewer
+ You can see all the lectures through the web.
+
+* [Lecture 1 about py](http://nbviewer.jupyter.org/gist/Seung-hyeon/7f7d7ec454223c24e8d27ad27e33359d)
+
 
 ## Contact Information
 
