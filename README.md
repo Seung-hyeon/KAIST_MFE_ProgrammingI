@@ -10,10 +10,17 @@ This material covers [python 3.6](https://www.python.org/downloads/). and packag
 * (Optional) [Git 2.16.1](https://git-scm.com/downloads)
 
 ## Installation
- After you install all the prerequistes, type
+ After you install all the prerequistes, type following in the command propmt
 ```cmd
 git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 ```
+
+## Contents
+* `Lectures(Prof)` : Lecture notes folder of our professor.
+* `Lectures(TA)` : Lecture notes folder of TA (me).
+* `jupyter.sh` : [jupyter notebook](http://jupyter.org/) shell executable.
+* `sync.sh` : Synchronize updated lecture notes.
+
 
 ## Other Useful Resources
 * [Quantecon](https://lectures.quantecon.org/)
