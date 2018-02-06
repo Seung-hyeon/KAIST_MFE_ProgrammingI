@@ -16,10 +16,11 @@ git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 ```
 
 ## Contents
-* `Lectures(Prof)` : Lecture notes folder of our professor.
-* `Lectures(TA)` : Lecture notes folder of TA (me).
-* `jupyter.sh` : [jupyter notebook](http://jupyter.org/) shell executable.
-* `sync.sh` : Synchronize updated lecture notes.
+* **Lectures(Prof)** : Lecture notes folder of our professor.
+* **Lectures(TA)** : Lecture notes folder of TA (me).
+* **init.sh** : Initialize git repository. (Run if you are not cloned the repo)
+* **jupyter.sh** : [jupyter notebook](http://jupyter.org/) shell executable.
+* **sync.sh** : Synchronize updated lecture notes.
 
 
 ## Other Useful Resources
