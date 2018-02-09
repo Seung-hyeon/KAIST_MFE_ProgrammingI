@@ -30,6 +30,12 @@ git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
  You can see all the lectures through the web.
 
 * [Lecture 1 about py](http://nbviewer.jupyter.org/gist/Seung-hyeon/7f7d7ec454223c24e8d27ad27e33359d)
+* Lecture 2 numpy, pandas, matplotlib
+* Lecture 3 Econometrics, Statistical Learning
+* Lecture 4 TensorFlow
+* Lecture 5 Object Oriented Programming
+* Lecutre 6 Decorator, Generator, Special Functions
+* Lecture 7 Modules, Packages
 
 
 ## Contact Information
