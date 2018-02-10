@@ -22,10 +22,6 @@ git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 * **jupyter.sh** : [jupyter notebook](http://jupyter.org/) shell executable.
 * **sync.sh** : Synchronize updated lecture notes.
 
-
-## Other Useful Resources
-* [Quantecon](https://lectures.quantecon.org/)
-
 ## Online Viewer
  You can see all the lectures through the web.
 
@@ -36,6 +32,9 @@ git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 * Lecture 5 Object Oriented Programming
 * Lecutre 6 Decorator, Generator, Special Functions
 * Lecture 7 Modules, Packages
+
+## Other Useful Resources
+* [Quantecon](https://lectures.quantecon.org/)
 
 
 ## Contact Information
