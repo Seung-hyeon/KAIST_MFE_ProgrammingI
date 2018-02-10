@@ -11,7 +11,7 @@ This material covers [python 3.6](https://www.python.org/downloads/). and packag
 
 ## Installation
  After you install all the prerequistes, type following in the command propmt
-```cmd
+```bash
 git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 ```
 
