@@ -27,15 +27,15 @@ git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 
 * [Lecture 1 about py](http://nbviewer.jupyter.org/gist/Seung-hyeon/7f7d7ec454223c24e8d27ad27e33359d)
 * [Lecture 2 numpy, pandas, matplotlib](http://nbviewer.jupyter.org/gist/Seung-hyeon/1dd7ce8ae45e2b140ff8af55914ec2e1)
-* Lecture 3 Econometrics, Statistical Learning
-* Lecture 4 TensorFlow
-* Lecture 5 Object Oriented Programming
-* Lecutre 6 Decorator, Generator, Special Functions
-* Lecture 7 Modules, Packages
+* Lecture 3 Econometrics, Simulations
+* Lecture 4 Object Oriented Programming
+* Lecutre 5 Decorator, Generator, Special Functions
+* Lecture 6 Modules, Packages
+* Lecture 7 Scikit-learn, TensorFlow...
 
 ## Other Useful Resources
 * [Quantecon](https://lectures.quantecon.org/)
-
+* http://blog.thedigitalcatonline.com/blog/2015/03/14/python-3-oop-notebooks/
 
 ## Contact Information
 
