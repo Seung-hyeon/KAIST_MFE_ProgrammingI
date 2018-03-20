@@ -29,10 +29,11 @@ git clone https://github.com/Seung-hyeon/KAIST_MFE_ProgrammingI
 * [Lecture 2 Control Flow](http://nbviewer.jupyter.org/gist/Seung-hyeon/55c51309d5dd38d9272cb2feb17580e1)
 * [Lecture 3 numpy, pandas, matplotlib](http://nbviewer.jupyter.org/gist/Seung-hyeon/1dd7ce8ae45e2b140ff8af55914ec2e1)
 * [Lecture 4 scipy, Optimization](http://nbviewer.jupyter.org/gist/Seung-hyeon/26a329ec8eb504da249932bf3b70b556)
-* Lecture 5 Object Oriented Programming
-* Lecutre 6 Decorator, Generator, Special Functions
-* Lecture 7 Modules, Packages
-* Lecture 8 Scikit-learn, TensorFlow...
+* [Lecture 5 Financial Analysis](http://nbviewer.jupyter.org/gist/Seung-hyeon/c00597fbd4b46981bd3e27a649a6eb59)
+* Lecture 6 Object Oriented Programming
+* Lecutre 7 Decorator, Generator, Special Functions
+* Lecture 8 Modules, Packages
+* Lecture 9 Scikit-learn, TensorFlow...
 
 ## Other Useful Resources
 * [Quantecon](https://lectures.quantecon.org/)
